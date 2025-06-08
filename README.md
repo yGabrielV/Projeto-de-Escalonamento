@@ -33,7 +33,7 @@ Iniciar Prioridade
 
 ---
 
-🧠 Algoritmos Implementados
+##🧠 Algoritmos Implementados
 FIFO (First-In, First-Out)
 Processos são executados na ordem de chegada, um de cada vez.
 
@@ -43,7 +43,7 @@ Cada processo recebe um quantum fixo de tempo; a execução alterna entre eles a
 Por Prioridade
 Processos são ordenados por nível de prioridade (menor número = maior prioridade) e executados em sequência.
 
-ℹ️ Como o sistema funciona
+##ℹ️ Como o sistema funciona
 São criados 4 processos com:
 
 Nome (ex: Dominic Toretto, Brian O'Conner…)
@@ -60,7 +60,7 @@ Ao final, é exibido um “pódio” com os 3 processos mais rápidos (menor tem
 
 ---
 
-📚 Bibliografia / Referências
+##📚 Bibliografia / Referências
 1. TANENBAUM, Andrew S.; BOS, Herbert. Modern Operating Systems. 4ª edição. Pearson, 2015.
 (Referência principal para conceitos de escalonamento, processos, prioridades e algoritmos.)
 
