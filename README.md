@@ -1,4 +1,4 @@
-# 🏎️ Projeto de Escalonamento de Processos
+## 🏎️ Projeto de Escalonamento de Processos
 
 Simulação educativa de escalonamento de processos em Python, com interface gráfica (`tkinter`) e três algoritmos diferentes: **FIFO**, **Round Robin** e **Prioridade**.
 
@@ -33,7 +33,7 @@ Iniciar Prioridade
 
 ---
 
-##🧠 Algoritmos Implementados
+## 🧠 Algoritmos Implementados
 FIFO (First-In, First-Out)
 Processos são executados na ordem de chegada, um de cada vez.
 
@@ -43,7 +43,7 @@ Cada processo recebe um quantum fixo de tempo; a execução alterna entre eles a
 Por Prioridade
 Processos são ordenados por nível de prioridade (menor número = maior prioridade) e executados em sequência.
 
-##ℹ️ Como o sistema funciona
+## ℹ️ Como o sistema funciona
 São criados 4 processos com:
 
 Nome (ex: Dominic Toretto, Brian O'Conner…)
