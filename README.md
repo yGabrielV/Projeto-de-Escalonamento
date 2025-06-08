@@ -60,7 +60,7 @@ Ao final, é exibido um “pódio” com os 3 processos mais rápidos (menor tem
 
 ---
 
-##📚 Bibliografia / Referências
+## 📚 Bibliografia / Referências
 1. TANENBAUM, Andrew S.; BOS, Herbert. Modern Operating Systems. 4ª edição. Pearson, 2015.
 (Referência principal para conceitos de escalonamento, processos, prioridades e algoritmos.)
 
