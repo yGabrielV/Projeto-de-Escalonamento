@@ -67,19 +67,22 @@ Ao final, é exibido um “pódio” com os 3 processos mais rápidos (menor tem
 2. STALLINGS, William. Operating Systems: Internals and Design Principles. 9ª edição. Pearson, 2018.
 (Utilizado para estudo dos algoritmos FIFO, Round Robin e Prioridade.)
 
-3. Python Software Foundation. Python 3 Documentation
+3. Matérias da disciplina de Sistemas Operacionais — Prof.Fabio Rocha de Araujo — CESUPA, 2025.
+ https://github.com/fabioraraujo/escalonamento/?authuser=1
+
+4. Python Software Foundation. Python 3 Documentation
 (Referência para uso de bibliotecas padrão como threading, random e tkinter.)
 
-4. GeeksforGeeks. Process Scheduling Algorithms
+5. GeeksforGeeks. Process Scheduling Algorithms
 (Consultado para revisão dos conceitos práticos de escalonamento de processos.)
 
-5. YouTube – Ttinker - Curso completo para iniciantes(Python)
+6. YouTube – Ttinker - Curso completo para iniciantes(Python)
    (Referencia visual para a criaçao da interface grafica./Canal - Rafael Serafim)
 
-6. Documentação oficial do Tkinter
-https://docs.python.org/3/library/tkinter.html
+7. Documentação oficial do Tkinter
+ https://docs.python.org/3/library/tkinter.html
 
-7. ChaGpt
+8. ChaGpt
    (Foi utilizado com o intuito de esclarecer, ensinar e me auxiliar na criação do projeto. Como o entendimento mais profundo da linguagem(Phython), a construção da Interface grafica, ideias de quais bibliotecas utilizar, um esclarecimento maior das politicas de escalonamento e correção de erros)
 
 
